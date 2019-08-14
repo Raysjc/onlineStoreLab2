@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(156, 156, 156);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+    background-image: url(img/banner.jpg);
+    height: 250px;
+    padding-top: 50px;
+    border-radius: 20px;
+    border: 1px solid red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+.sectionTitle{
+    background-color: cornflowerblue;
+    font-size: 16px;
+    padding: 5px; 
+    color: white; 
+    
+}
+
+.footerTitle{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+img{
+    border-radius: 8px;
+}
+
+.map{
+    width: 500px;
+    text-align: left;
+    border: 5px solid white;
+    opacity: .8;
+    float: left;
+}
+
+.about{
+    color: black;
+    font-size: 12px;
+    text-align: right;
+}
+
+.contact{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+}
+
+.products{
+    text-align: left;
+    width: 300px;
+    height: 300px;
+    border: 1px solid rgb(245, 6, 6);
+    border-radius: 8px;
+
+}
